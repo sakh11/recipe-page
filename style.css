@@ -166,6 +166,10 @@ td, th {
         padding: 0;
     }
 
+    #hero-title {
+        font-size: 36px;
+    }
+
     section {
         padding: 2rem;
     }
