@@ -22,7 +22,6 @@ body {
     grid-template-rows: auto auto;
     justify-content: center;
     align-items: center;
-    position: relative;
     font-family: "outfit-variablefont", sans-serif;
     line-height: 2;
     font-weight: 400;
@@ -155,7 +154,7 @@ td, th {
     }
 
     main {
-        margin: 0;
+        margin: 10px;
     }
 }
 
